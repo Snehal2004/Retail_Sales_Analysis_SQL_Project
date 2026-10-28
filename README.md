@@ -67,7 +67,6 @@ This project explores retail sales through business-focused SQL queries, includi
 9. Identify top customers based on spending.
 10. Explore sales trends across different periods.
 
-*Note: The questions listed above describe the analysis areas. Update this list to match the queries included in your final project.*
 
 
 ## 💡 Key Learnings
